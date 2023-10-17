@@ -2,7 +2,8 @@
 
 Project Name : Number Guessing Game !
 
-description,
+description :
+
           The Users have to give the upper and lower boundaries of numbers ! 
 and the Computer Guesses the random number between the boundaries.
 
@@ -18,6 +19,7 @@ The one who Finds the answer in the minimum attempts, Considers as a winner 🏆
 
 
 Note : 
+
 In this program...
 The inputs are gathered from the users and 
 This program uses random module to predict the random number .
