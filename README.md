@@ -4,8 +4,7 @@ Project Name : Number Guessing Game !
 
 description :
 
-          The Users have to give the upper and lower boundaries of numbers ! 
-and the Computer Guesses the random number between the boundaries.
+          The Users have to give the upper and lower boundaries of numbers ! and the Computer Guesses the random number between the boundaries.
 
 Then the users have to find the random number.
 
