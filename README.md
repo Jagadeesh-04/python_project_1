@@ -1,4 +1,5 @@
-# Python_Project_1
+# Project 1 - Number Guessing Game
+# Programming Language used - Python
 
 Project Name : Number Guessing Game !
 
